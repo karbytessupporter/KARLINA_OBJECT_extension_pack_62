@@ -4,7 +4,7 @@ This Python program prints the names and file sizes (in megabytes) of each file 
 
 --------------------------------
 
-Directory: karbytes2026_1
+Directory: karbytes2026_2
 
 file_0: KARLINA_OBJECT_extension_pack_49-main.zip // 297.60 megabytes
 
