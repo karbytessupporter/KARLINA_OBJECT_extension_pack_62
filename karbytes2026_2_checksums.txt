@@ -74,7 +74,7 @@ file_32: KARLINA_OBJECT_extension_pack_54-main.zip // SHA-256: 03421d84e2c97c140
 
 file_33: KARLINA_OBJECT_extension_pack_53-main.zip // SHA-256: 7726d9171883a0661a0934c936adbb6c95188008ed95001997d6315e19b0f9e1
 
-file_34: KARLINA_OBJECT_extension_pack_62-main_06april2026.zip // SHA-256: 00fc7ac25b149149da79a653a376900ba0728cc029f84b9cffe5a7a779e9eb2f
+file_34: KARLINA_OBJECT_extension_pack_62-main_06april2026.zip // SHA-256: 6c0fb3c597503736a44fe0896cd1d383e3938d9e1cbc841d9aa0b8c5b40ee7c9
 
 file_35: KARLINA_OBJECT_extension_pack_50-main.zip // SHA-256: e392f0121de7ed35a1b868eb4ef15c2aea047aea5d0fc7910c5fc798d820bf94
 
