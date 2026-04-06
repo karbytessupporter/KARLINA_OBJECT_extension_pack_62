@@ -1,7 +1,7 @@
 #########################################################################################
 # file: print_folder_checksums.py
 # type: Python
-# date: 22_FEBRUARY_2026
+# date: 06_APRIL_2026
 # author: karbytes
 # license: PUBLIC_DOMAIN 
 #########################################################################################
@@ -65,8 +65,8 @@ def list_file_checksums(folder_path, output_file):
     print("\n\n--------------------------------\n\n")
 
 # Set the folder path to the folder you would like to analyze.
-folder_path = 'karbytes2026_1'  # Replace with your actual folder path.
-output_file = 'karbytes2026_1_checksums.txt'  # Output file (gets overwritten or created new).
+folder_path = 'karbytes2026_2'  # Replace with your actual folder path.
+output_file = 'karbytes2026_2_checksums.txt'  # Output file (gets overwritten or created new).
 
 # Execute the function which is defined in this program file.
 list_file_checksums(folder_path, output_file)
