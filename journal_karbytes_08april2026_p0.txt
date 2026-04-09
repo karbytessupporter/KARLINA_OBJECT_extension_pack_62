@@ -1,5 +1,5 @@
 /**
- * file: chatgpt_karbytes_08april2026_p0.txt
+ * file: journal_karbytes_08april2026_p0.txt
  * type: plain-text
  * date: 08_APRIL_2026
  * author: karbytes
