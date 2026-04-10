@@ -12,6 +12,8 @@ The following is a plain-text transcript of a conversation between karbytes and 
 
 karbytes:
 
+[uploaded_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_62/main/journal_karbytes_10april2026_p0.txt]
+
 Analyze and provide feedback on the uploaded plain-text file.
 
 ChatGPT:
