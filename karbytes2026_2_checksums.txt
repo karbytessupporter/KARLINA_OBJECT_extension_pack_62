@@ -38,7 +38,7 @@ file_14: KARBYTES_BLOG_APPS_github_hosted_website-main_29march2026.zip // SHA-25
 
 file_15: karbytes_dark_websites-main.zip // SHA-256: e7040d2be96177060074883447a0f4f44b7cef4f4614ae33e676b498002d2c90
 
-file_16: KARLINA_OBJECT_extension_pack_62-main_12april2026.zip // SHA-256: b91e7c15a8d56bd12682731d377a1afd43b191c41dc28edbc9642099ecf55a67
+file_16: KARLINA_OBJECT_extension_pack_62-main_12april2026.zip // SHA-256: 323756335eac03d81b71dc5836057c50eaaf22e2053869e49d8e9e22bef473ff
 
 file_17: karbytes_basement_46-main.zip // SHA-256: ab9122509176957938ff423f8591b4afa4c1555f449d5b832df8069b47c5e693
 
