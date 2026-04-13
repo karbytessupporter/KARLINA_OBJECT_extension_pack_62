@@ -1,1 +1,5 @@
 I created an "experimental" music video by recording my Ubuntu desktop computer usage (via Hewlett-Packard (HP) laptop hardware) which included simultaneously and asynchronously playing various karbytes-originated music video files (of guitar and drum tracks exclusively).
+
+Here is the Uniform Resource Locator (URL) to that "macro" music video's constituent MP4 file (hosted on karbytes' GitHub dot Com account (which has the unique identifier (i.e. username) @karlinarayberinger)):
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_62/main/obs_studio_recording_12apr2026_p0.mp4
