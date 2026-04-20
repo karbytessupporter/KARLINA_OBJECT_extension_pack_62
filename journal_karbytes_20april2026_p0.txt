@@ -12,6 +12,10 @@ The second 25-gigabyte M_DISC-sized allocation of the KARBYTES public web-hosted
 
 (The first 25-gigabyte M_DISC-sized allocation of the KARBYTES public web-hosted file collection was completed at 11:59PM Pacific Standard Time on 16_NOVEMBER_2025 and is named karbytes2025_22 (which is also named karbytes_origins)).
 
+(The third 25-gigabyte M_DISC-sized allocation of the KARBYTES public web-hosted file collection is expected to be complete after 11:59PM Pacific Standard Time on 30_APRIL_2026 and is named karbytes_refinement).
+
+Within a month of completing karbytes_nexus, karbytes expects to create a time capsule containing several M_DISC copies of karbytes_origins and karbytes_nexus. According to karbytes, the most likely burial location of that time capsule is the backyard where the previous two karbytes time capsules were buried and within ten feet of those older time capsules (which are all less than ten feet below the ground level). The longitude and latitude coordinates of that burial site are 37°42’30″N 122°06’19″W.
+
 Sincerely,
 karbytes
 
