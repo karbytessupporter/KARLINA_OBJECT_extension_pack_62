@@ -10,7 +10,7 @@ The following list of M_DISC contents encompasses the entire collection of publi
 
 As of 31_DECEMBER_2025 on 11:59PM Pacific Standard Time, karbytes2025_22 is officially determined to be in its finalized state (i.e. closed to further modifications).
 
-As of 31_DECEMBER_2026 on 11:59PM Pacific Standard Time, the first four micro-directories of karbytes2026_2 (which are enumerated closest to the bottom of the following list of micro-directories) are also officially determined to be in their finalized states.
+As of 31_DECEMBER_2025 on 11:59PM Pacific Standard Time, the first four micro-directories of karbytes2026_2 (which are enumerated closest to the bottom of the following list of micro-directories) are also officially determined to be in their finalized states.
 
 Important Note: Indefinitely many 25-gigabyte M_DISCs contain the entirety of the web-hosted file collection named karbytes. The subset of karbytes named karbytes2025_22 only encompasses the first of those discs (and that disc is named karbytes_origins). The next disc after that is named karbytes_nexus and encompasses karbytes' whole genome and karbytes2026_0 and other post-2025 karbytes content).
 
@@ -386,7 +386,7 @@ M_DISC 2 of 2 data collection size: approximately 23 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2026_2: // folder contains exactly 40 files (approximately 21581.94 megabytes total).
+karbytes2026_2: // folder contains exactly 40 files (approximately 21581.95 megabytes total).
 
     - zip_file_0: karbytes_human_genome_fasta_part_0-main.zip // 5.2 gigabytes (file checksum SHA-256: f743c543a0337ee622324c652b2e03f2f9db7924e8680bc7aa7fa16919260591)
 
@@ -452,7 +452,7 @@ karbytes2026_2: // folder contains exactly 40 files (approximately 21581.94 mega
 
     - zip_file_31: karbytes_wayback_machine_saves_precision_batches_extension_0-main.zip // 157.2 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_32: karbytes_wayback_machine_saves_precision_batches_extension_1-main_20april2026.zip // 103.8 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_32: karbytes_wayback_machine_saves_precision_batches_extension_1-main_20april2026.zip // 106.0 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
     - zip_file_33: karbytes_basement_46-main.zip // 94.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
