@@ -90,6 +90,6 @@ file_39: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_30march2026.zip // 286.09 
 
 Total number of files: 40
 
-Total folder size: 21581.94 megabytes
+Total folder size: 21581.95 megabytes
 
 --------------------------------
